@@ -1,9 +1,9 @@
 {
-    "name": "schema",
-    "version": "1.0.5",
-    "description": "SCHEMA - Schumacher Content Hierarchical Encoding & Management Architecture",
+    "name": "grid_os",
+    "version": "0.0.0",
+    "description": "GRID_OS is a free and open-source operating system built to provide a clean, user-first alternative to closed platforms.",
     "author": {
-    "name": "Joshua Schumacher",
-    "email": "contact@joshuaschumacher.com",
-    "url": "https://www.joshuaschumacher.com" }
+    "name": "BLACKGRID",
+    "email": "contact@blkgrd.net",
+    "url": "https://www.blkgrd.net" }
 }

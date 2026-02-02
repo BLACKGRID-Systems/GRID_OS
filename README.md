@@ -1,34 +1,31 @@
-<p align="center" href="https://github.com/JSSchumacher/joshuaschumacher.com">
-  <img width="300" src="https://github.com/JSSchumacher/SCHEMA/blob/main/images/SCHEMA%203x1.png?raw=true" />
+<p align="center" href="https://github.com/BLACKGRID-Systems/GRID_OS">
+  <img width="300" src="https://github.com/BLACKGRID-Systems/GRID_OS/blob/main/images/Logo/1%20GRID_OS%20Logo%20-%20Grid%20Mark.png?raw=true" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/github/package-json/v/JSSchumacher/SCHEMA">
-  <img align="center" src="https://img.shields.io/github/license/JSSchumacher/SCHEMA">
-  <img align="center" src="https://img.shields.io/github/last-commit/JSSchumacher/SCHEMA">
+  <img align="center" src="https://img.shields.io/github/package-json/v/JBLACKGRID-Systems/GRID_OS">
+  <img align="center" src="https://img.shields.io/github/license/BLACKGRID-Systems/GRID_OS">
+  <img align="center" src="https://img.shields.io/github/last-commit/BLACKGRID-Systems/GRID_OS">
 </p>
 
-# SCHEMA
-### Name
-**SCHEMA** - **S**chumacher **C**ontent **H**ierarchical **E**ncoding & **M**anagement **A**rchitecture
+# GRID_OS
 
 ### Description
-Custom file identification and organizational system designed to provide structured, human-readable, and context-aware file IDs for documents, ensuring clarity, traceability, and long-term maintainability. It incorporates metadata into the filename itself, making files self-descriptive even outside of a managed environment.
+GRID_OS is a free and open-source operating system created by BLACKGRID to give users control without sacrificing usability. Built on the Linux kernel, it is designed for Desktop and Mobile platforms that share a unified foundation and philosophy. GRID_OS exists to challenge the idea that clean, seamless experiences must come from closed ecosystems. Its mission is to combine intuitive design with openness, software freedom, and cross-platform compatibility. By supporting Linux, Android, and select iOS workflows, GRID_OS aims to reduce fragmentation, empower users, and build a long-lasting operating system that serves people rather than platforms.
 
-SCHEMA is a modular metadata architecture designed to unify how digital content is **named, versioned, archived, and formatted**. It provides a durable foundation for long-term personal projects, codebases, documentation, and archival systems.
-
-## What Inspired The Project
-I have always been overly organized. This is actually probably the third or fourth version of this (under different names). But it is just something that I can use to better organize my files, and now I can keep up with the structing easier with GitHub versions.
+### What Inspired The Project
+GRID_OS was created by BLACKGRID founder Joshua Schumacher with the goal of delivering a free and open source operating system that bridges the gap between desktop and mobile computing. Built on the Linux kernel, GRID_OS is designed to be fully transparent and free from surveillance, with source code that is completely open and auditable. The platform aims to provide a seamless user experience comparable to established operating systems such as Android and iOS, while maintaining user freedom, control, and privacy.
 
 ## Credits
-- [Xeon](https://github.com/JSSchumacher) - Founder, Lead Developer *(Joined The SCHEMA Project on <ins>06/26/2025</ins>)*
+- [Xeon](https://github.com/JSSchumacher) - Founder, Lead Developer *(Joined The GRID_OS Project on <ins>02/01/2026</ins>)*
 
 ## Disclaimer
+[GRID_OS](https://github.com/BLACKGRID-Systems/GRID_OS) is a free and open-source operating system developed and maintained by [BLACKGRID](https://www.blkgrd.net). [GRID_OS](https://github.com/BLACKGRID-Systems/GRID_OS) is an independent project and is not affiliated with, endorsed by, sponsored by, or associated with any corporation, organization, institution, or third party, except where explicitly stated.
 
-SCHEMA (Schumacher Content Hierarchical Encoding & Management Architecture) is a proprietary file identification and organization system developed solely by [Joshua Schumacher](https://www.joshuaschumacher.com). It is not affiliated with, endorsed by, or associated with any organization, institution, or third party. All concepts, naming conventions, and structural formats are the intellectual creation of [Joshua Schumacher](https://www.joshuaschumacher.com).
+The [GRID_OS](https://github.com/BLACKGRID-Systems/GRID_OS) source code is licensed under the GNU General Public License v3.0 (GPL-3.0). This license grants users the freedom to use, study, modify, and redistribute the software in accordance with its terms. Any redistribution or modification of [GRID_OS](https://github.com/BLACKGRID-Systems/GRID_OS) must comply fully with the requirements of the GPL-3.0.
 
-<p align="center" href="https:/https://github.com/JSSchumacher"> 
-  <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/Xeon/Transparent/Word/XEON%20Outline.png" />
-</p>
+All original system architecture, project direction, documentation, and non-code creative assets are authored by [BLACKGRID](https://www.blkgrd.net), unless otherwise noted. The [GRID_OS](https://github.com/BLACKGRID-Systems/GRID_OS) name, logos, and branding are not covered by the GPL-3.0 and are expressly excluded from the license. Use of [GRID_OS](https://github.com/BLACKGRID-Systems/GRID_OS) trademarks or branding elements is not granted by default and may require explicit permission from [BLACKGRID](https://www.blkgrd.net).
 
-##### Written By [Xeon](https://github.com/JSSchumacher) <br> Licensed under the [CC-BY-SA-4.0](https://github.com/JSSchumacher/SCHEMA/blob/main/LICENSE) <br> Version v1.0.0.0003-2025.07.29-beta
+Any third-party components included in [GRID_OS](https://github.com/BLACKGRID-Systems/GRID_OS) remain the property of their respective owners and are subject to their own licenses.
+
+##### README written By [Xeon](https://github.com/JSSchumacher) <br> Licensed under the [CC-BY-SA-4.0](https://github.com/JSSchumacher/SCHEMA/blob/main/LICENSE) <br> Version v1.0.0.0003-2025.07.29-beta
