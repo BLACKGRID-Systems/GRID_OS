@@ -6,6 +6,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+# [v0.0.0.0003-2026.02.02-alpha] - 2026-02-02
+## Notes: Cleaned up sloppy work and added BLACKGRID branding
+
+### Added
+
+- Nothing
+
+### Changed
+
+- Updated images/0 GRID_OS Logo - Branding Info.png
+- Updated images/1 GRID_OS Logo - Grid Mark and Previews.png
+
+### Removed
+
+- Nothing
+
 # [v0.0.0.0002-2026.02.02-alpha] - 2026-02-02
 ## Notes: Updated Font to real font instead of handdrawn verison
 
@@ -49,5 +65,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/BLACKGRID-Systems/GRID_OS
-[v0.0.0.0002-2026.02.02-alpha]: No Page Available
+[v0.0.0.0003-2026.02.02-alpha]: No Page Available
+[v0.0.0.0002-2026.02.02-alpha]: https://github.com/BLACKGRID-Systems/GRID_OS/commit/b22b3160e1102873bf4d9df9baad226a738ffc84
 [v0.0.0.0001-2026.02.02-alpha]: https://github.com/BLACKGRID-Systems/GRID_OS/commit/fdc5d03385e98969174481edabc196d8bed56117
